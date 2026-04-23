@@ -11,7 +11,7 @@ O projeto permite gerenciar salas, controlar disponibilidade e evitar conflitos 
 ---
 
 ## Estrutura do Projeto
-/backend → API REST (Laravel)
+/backend → API REST (Laravel)  
 /frontend → Interface (React + Vite + Tailwind)
 
 Arquitetura separada (API + SPA), facilitando escalabilidade e manutenção.
